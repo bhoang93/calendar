@@ -1,0 +1,3 @@
+export const TOGGLE_MODAL = "TOGGLE_MODAL";
+export const SET_ACTIVE_DATE = "SET_ACTIVE_DATE";
+export const ADD_REMINDER = "ADD_REMINDER";
