@@ -1,0 +1,13 @@
+{
+  "main.css": "/calendar/static/css/main.72a70a7a.chunk.css",
+  "main.js": "/calendar/static/js/main.6ef90476.chunk.js",
+  "main.js.map": "/calendar/static/js/main.6ef90476.chunk.js.map",
+  "static/js/1.f8f9aa69.chunk.js": "/calendar/static/js/1.f8f9aa69.chunk.js",
+  "static/js/1.f8f9aa69.chunk.js.map": "/calendar/static/js/1.f8f9aa69.chunk.js.map",
+  "runtime~main.js": "/calendar/static/js/runtime~main.d8c9fae7.js",
+  "runtime~main.js.map": "/calendar/static/js/runtime~main.d8c9fae7.js.map",
+  "static/css/main.72a70a7a.chunk.css.map": "/calendar/static/css/main.72a70a7a.chunk.css.map",
+  "index.html": "/calendar/index.html",
+  "precache-manifest.24c778913308649980212a2b2db4827d.js": "/calendar/precache-manifest.24c778913308649980212a2b2db4827d.js",
+  "service-worker.js": "/calendar/service-worker.js"
+}
